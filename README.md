@@ -3,13 +3,13 @@
 > Report Bugs!
 
 
-### ✨ [Demo](http://cable.bennocraft.net) <-- will be inserted later
+### ✨ [Demo](http://bennocraft.net) <-- will be inserted later
 
 ## Author
 
 👤 **Benno van Dorst**
 
-* Website: [Bennocraft](http://bennocraft.net)
+* Website: [bennocraft.net](http://bennocraft.net)
 * Github: [@BennovanDorst](https://github.com/BennovanDorst)
 
 
