@@ -9,7 +9,7 @@
 
 👤 **Benno van Dorst**
 
-* Website: http://cable.bennocraft.net
+* Website: [Bennocraft](http://bennocraft.net)
 * Github: [@BennovanDorst](https://github.com/BennovanDorst)
 
 
