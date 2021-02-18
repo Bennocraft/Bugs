@@ -3,7 +3,7 @@
 > Report Bugs!
 
 
-### ✨ [Report a Bug](https://github.com/Bennocraft/Bugs/issues)
+### ✨ [Report a Bug](https://github.com/Bennocraft/Bugs/issues/new)
 
 ## Author
 
