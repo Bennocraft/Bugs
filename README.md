@@ -7,7 +7,7 @@
 
 ## Author
 
-👤 **Benno van Dorst
+👤 **Benno van Dorst**
 
 * Website: http://cable.bennocraft.net
 * Github: [@BennovanDorst](https://github.com/BennovanDorst)
